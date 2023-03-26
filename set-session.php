@@ -1,0 +1,22 @@
+<?php
+ob_start();
+@ini_set('display_errors', '0');
+$_SESSION["id"] = $_COOKIE['id'];
+$_SESSION["emp_email"] = $_COOKIE['emp_email'];
+$_SESSION["emp_password"] = $_COOKIE["emp_password"];
+$_SESSION["emp_name"] = $_COOKIE["emp_name"];
+$_SESSION["emp_company"] = $_COOKIE["emp_company"];
+$_SESSION["emp_departmentid"] = $_COOKIE["emp_departmentid"];
+$_SESSION["emp_department"] = $_COOKIE["emp_department"];
+$_SESSION["emp_position"] = $_COOKIE["emp_position"];
+$_SESSION["emp_departmentid2"] = $_COOKIE["emp_departmentid2"];
+$_SESSION["emp_department2"] = $_COOKIE["emp_department2"];
+$_SESSION["emp_position2"] = $_COOKIE["emp_position2"];
+$_SESSION["emp_departmentid3"] = $_COOKIE["emp_departmentid3"];
+$_SESSION["emp_department3"] = $_COOKIE["emp_department3"];
+$_SESSION["emp_position3"] = $_COOKIE["emp_position3"];
+$_SESSION["emp_tel"] = $_COOKIE["emp_tel"];
+$_SESSION["emp_level"] = $_COOKIE["emp_level"];
+$_SESSION["emp_annaul"] = $_COOKIE["emp_annaul"];
+$_SESSION["emp_leave"] = $_COOKIE["emp_leave"];
+$_SESSION["emp_sick"] = $_COOKIE["emp_sick"];

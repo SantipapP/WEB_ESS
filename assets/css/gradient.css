@@ -1,0 +1,5 @@
+.gradiant-bg {
+    background-image: linear-gradient(black, pink);
+    font-size: 72px;
+    font-weight: bold;
+}
