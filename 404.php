@@ -52,7 +52,7 @@ include('check-emp-status.php');*/
                         </div>
                         <p class="text-dark mb-5 lead">Page Not Found</p>
                         <p class="text-black-50 mb-0">ไม่พบหน้าที่คุณต้องการ หน้านี้อาจไม่มีอยู่หรือกำลังพัฒนา</p>
-                        <p class="text-black-50 mb-0">พัฒนาโดยแผนก IT-ESPOWER</p>
+                        <p class="text-black-50 mb-0">พัฒนาโดยแผนก ArtLongDev</p>
                     </div>
                 </div>
             </div>
